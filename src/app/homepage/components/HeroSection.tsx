@@ -87,7 +87,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-lg md:text-xl text-white/80 leading-relaxed mb-8 max-w-xl">
-            Lagos&apos;s most reliable on-demand laundry, home cleaning and fumigation service — with real-time tracking and doorstep delivery.
+            Otukpo&apos;s most reliable on-demand laundry, home cleaning and fumigation service — with real-time tracking and doorstep delivery.
           </p>
 
           {/* CTAs */}
