@@ -74,7 +74,7 @@ export default function HeroSection() {
           <div className="inline-flex items-center gap-2 bg-[#F5C200]/20 border border-[#F5C200]/30 backdrop-blur-sm rounded-full px-4 py-1.5 mb-6">
             <span className="w-2 h-2 rounded-full bg-[#F5C200] animate-pulse" />
             <span className="text-[#F5C200] text-xs font-bold tracking-widest uppercase">
-              Lagos&apos;s #1 On-Demand Laundry
+              Otukpo&apos;s #1 On-Demand Laundry
             </span>
           </div>
 
