@@ -42,7 +42,7 @@ export default function TestimonialsSection() {
         <div className="text-center mb-14">
           <span className="text-xs font-bold tracking-widest uppercase text-[#CC0000] mb-3 block">Customer Reviews</span>
           <h2 className="text-3xl lg:text-4xl xl:text-5xl font-extrabold text-[#1A0A5E] mb-4">
-            What Lagos is Saying
+            What Otukpo is Saying
           </h2>
           <div className="flex items-center justify-center gap-1 mb-2">
             {[1, 2, 3, 4, 5]?.map((s) => (
